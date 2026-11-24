@@ -163,6 +163,6 @@ readme_resimler/            README görselleri
 ## Kaynaklar
 
 - S. Ren, K. He, R. Girshick, J. Sun, "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks", NeurIPS 2015.
-- A. Kuznetsova vd., "The Open Images Dataset V4", IJCV 2020.
+- A. Kuznetsova vd., "The Open Images Dataset V4: Unified image classification, object detection, and visual relationship detection at scale", arXiv:1811.00982, 2018.
 - TensorFlow Object Detection API: https://github.com/tensorflow/models/tree/master/research/object_detection
 - OIDv4_ToolKit: https://github.com/EscVM/OIDv4_ToolKit
