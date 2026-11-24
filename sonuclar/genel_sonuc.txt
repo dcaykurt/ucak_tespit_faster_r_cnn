@@ -1,0 +1,9 @@
+esik: 0.5
+resim sayisi: 200
+gercek kutu: 259
+dogru tespit: 226
+yanlis tespit: 95
+kacirilan: 33
+kesinlik: 0.704
+duyarlilik: 0.873
+f1: 0.779
