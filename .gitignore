@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.python-version
+veri/
+modeller/
+araclar/
+egitim/ucak/
+egitim/ucak_eval/
+egitim/ucak_eval_tum/
+egitim/deneme/
+egitim/deneme_eval/
+egitim/*.txt
+sonuclar/tespit/
+videolar/
